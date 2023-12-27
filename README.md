@@ -7,7 +7,19 @@ website][6].
 
 
 
-## IPython Notebooks:
+------
+
+
+
+https://wesmckinney.com/book/python-basics#ipython_basics_notebook
+
+
+
+------
+
+
+
+## IPython Notebooks
 
 * [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch02.ipynb)
 * [Chapter 3: Built-in Data Structures, Functions, and Files](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch03.ipynb)
@@ -22,3 +34,7 @@ website][6].
 * [Chapter 12: Introduction to Modeling Libraries in Python](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch12.ipynb)
 * [Chapter 13: Data Analysis Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch13.ipynb)
 * [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/appa.ipynb)
+
+
+
+## Python_for_Data_Analysis_3E
