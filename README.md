@@ -11,7 +11,7 @@ website][6].
 
 
 
-https://wesmckinney.com/book/python-basics#semantics_imports
+https://wesmckinney.com/book/python-basics#semantics_mutability
 
 
 
