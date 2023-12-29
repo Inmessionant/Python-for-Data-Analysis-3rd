@@ -11,7 +11,7 @@ website][6].
 
 
 
-https://wesmckinney.com/book/python-basics#ipython_basics_notebook
+https://wesmckinney.com/book/python-basics#semantics_imports
 
 
 
