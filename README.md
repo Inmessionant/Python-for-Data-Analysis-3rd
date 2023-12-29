@@ -11,7 +11,7 @@ website][6].
 
 
 
-https://wesmckinney.com/book/python-basics#semantics_mutability
+https://wesmckinney.com/book/python-basics#scalar_types
 
 
 
